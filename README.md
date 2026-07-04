@@ -56,7 +56,7 @@ Mình tập trung phát triển sâu vào luồng vận hành hệ thống (DevO
   * ✨ **Học bổng Khuyến khích Học tập HUIT** nhờ duy trì mức GPA xuất sắc **3.61 / 4.0**.
   * 🔬 **Thành viên Nghiên cứu Khoa học** cấp Trường & Tham gia Cuộc thi Sinh viên Nghiên cứu Khoa học **Eurika**.
 
-## ⚜️ Các chúng chỉ quan trọng
+## ⚜️ Các chứng chỉ quan trọng
 <img src="./assets/image/DevOps-For-Fresher-Cert.png" width=200 alt="DevOps for Fresher"/>
 
 ## 📊 Đánh giá năng lực GitHub (GitHub Stats)
