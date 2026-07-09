@@ -32,13 +32,18 @@ Mình tập trung phát triển sâu vào luồng vận hành hệ thống (DevO
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" alt="Kubernetes" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" alt="Rancher" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
+  <img src="./assets/svg/uptime-kuma.svg" alt="Uptime Kuma" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
+  <img src="./assets/svg/velero.svg" alt="Velero" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
+  <img src="./assets/svg/zabbix.svg" alt="Zabbix" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="vertical-align:middle; margin-right: 10px; background-color:white; border-radius: 10%;" />
+  <img src="./assets/svg/github.svg" alt="GitHub" width="45" height="45" style="vertical-align:middle; margin-right: 10px; background-color:white; border-radius: 10%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" style="vertical-align:middle; margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="45" height="45" style="vertical-align:middle; margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45" style="vertical-align:middle; margin-right: 10px;background-color:white; border-radius: 10%;" />
+  <img src="./assets/svg/bash.svg" alt="Bash" width="45" height="45" style="vertical-align:middle; margin-right: 10px;background-color:white; border-radius: 10%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
@@ -47,7 +52,7 @@ Mình tập trung phát triển sâu vào luồng vận hành hệ thống (DevO
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="JavaScript" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="vertical-align:middle; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="45" height="45" style="vertical-align:middle;background-color:white; border-radius: 10%;" />
+  <img src="./assets/svg/kafka.svg" alt="Apache Kafka" width="45" height="45" style="vertical-align:middle;background-color:white; border-radius: 10%;" />
 </p>
 
 ---
@@ -59,6 +64,7 @@ Mình tập trung phát triển sâu vào luồng vận hành hệ thống (DevO
 
 ## ⚜️ Các chứng chỉ quan trọng
 <img src="./assets/image/DevOps-For-Fresher-Cert.png" width=200 alt="DevOps for Fresher"/>
+<img src="./assets/image/Kubernetes-Cert.jpg" width=200 alt="Kubernetes"/>
 
 ## 📊 Đánh giá năng lực GitHub (GitHub Stats)
 
